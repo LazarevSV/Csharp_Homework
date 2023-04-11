@@ -1,0 +1,15 @@
+E:\DCDownloads\GeekBrains\C#\domash2\bin\Debug\net6.0\domash2.exe
+E:\DCDownloads\GeekBrains\C#\domash2\bin\Debug\net6.0\domash2.deps.json
+E:\DCDownloads\GeekBrains\C#\domash2\bin\Debug\net6.0\domash2.runtimeconfig.json
+E:\DCDownloads\GeekBrains\C#\domash2\bin\Debug\net6.0\domash2.dll
+E:\DCDownloads\GeekBrains\C#\domash2\bin\Debug\net6.0\domash2.pdb
+E:\DCDownloads\GeekBrains\C#\domash2\obj\Debug\net6.0\domash2.csproj.AssemblyReference.cache
+E:\DCDownloads\GeekBrains\C#\domash2\obj\Debug\net6.0\domash2.GeneratedMSBuildEditorConfig.editorconfig
+E:\DCDownloads\GeekBrains\C#\domash2\obj\Debug\net6.0\domash2.AssemblyInfoInputs.cache
+E:\DCDownloads\GeekBrains\C#\domash2\obj\Debug\net6.0\domash2.AssemblyInfo.cs
+E:\DCDownloads\GeekBrains\C#\domash2\obj\Debug\net6.0\domash2.csproj.CoreCompileInputs.cache
+E:\DCDownloads\GeekBrains\C#\domash2\obj\Debug\net6.0\domash2.dll
+E:\DCDownloads\GeekBrains\C#\domash2\obj\Debug\net6.0\refint\domash2.dll
+E:\DCDownloads\GeekBrains\C#\domash2\obj\Debug\net6.0\domash2.pdb
+E:\DCDownloads\GeekBrains\C#\domash2\obj\Debug\net6.0\domash2.genruntimeconfig.cache
+E:\DCDownloads\GeekBrains\C#\domash2\obj\Debug\net6.0\ref\domash2.dll
