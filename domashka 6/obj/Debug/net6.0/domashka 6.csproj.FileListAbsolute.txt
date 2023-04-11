@@ -1,0 +1,15 @@
+E:\DCDownloads\GeekBrains\C#\domashka 6\bin\Debug\net6.0\domashka 6.exe
+E:\DCDownloads\GeekBrains\C#\domashka 6\bin\Debug\net6.0\domashka 6.deps.json
+E:\DCDownloads\GeekBrains\C#\domashka 6\bin\Debug\net6.0\domashka 6.runtimeconfig.json
+E:\DCDownloads\GeekBrains\C#\domashka 6\bin\Debug\net6.0\domashka 6.dll
+E:\DCDownloads\GeekBrains\C#\domashka 6\bin\Debug\net6.0\domashka 6.pdb
+E:\DCDownloads\GeekBrains\C#\domashka 6\obj\Debug\net6.0\domashka 6.csproj.AssemblyReference.cache
+E:\DCDownloads\GeekBrains\C#\domashka 6\obj\Debug\net6.0\domashka 6.GeneratedMSBuildEditorConfig.editorconfig
+E:\DCDownloads\GeekBrains\C#\domashka 6\obj\Debug\net6.0\domashka 6.AssemblyInfoInputs.cache
+E:\DCDownloads\GeekBrains\C#\domashka 6\obj\Debug\net6.0\domashka 6.AssemblyInfo.cs
+E:\DCDownloads\GeekBrains\C#\domashka 6\obj\Debug\net6.0\domashka 6.csproj.CoreCompileInputs.cache
+E:\DCDownloads\GeekBrains\C#\domashka 6\obj\Debug\net6.0\domashka 6.dll
+E:\DCDownloads\GeekBrains\C#\domashka 6\obj\Debug\net6.0\refint\domashka 6.dll
+E:\DCDownloads\GeekBrains\C#\domashka 6\obj\Debug\net6.0\domashka 6.pdb
+E:\DCDownloads\GeekBrains\C#\domashka 6\obj\Debug\net6.0\domashka 6.genruntimeconfig.cache
+E:\DCDownloads\GeekBrains\C#\domashka 6\obj\Debug\net6.0\ref\domashka 6.dll
