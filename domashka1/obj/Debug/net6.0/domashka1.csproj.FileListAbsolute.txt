@@ -1,0 +1,15 @@
+E:\DCDownloads\GeekBrains\C#\domashka1\bin\Debug\net6.0\domashka1.exe
+E:\DCDownloads\GeekBrains\C#\domashka1\bin\Debug\net6.0\domashka1.deps.json
+E:\DCDownloads\GeekBrains\C#\domashka1\bin\Debug\net6.0\domashka1.runtimeconfig.json
+E:\DCDownloads\GeekBrains\C#\domashka1\bin\Debug\net6.0\domashka1.dll
+E:\DCDownloads\GeekBrains\C#\domashka1\bin\Debug\net6.0\domashka1.pdb
+E:\DCDownloads\GeekBrains\C#\domashka1\obj\Debug\net6.0\domashka1.csproj.AssemblyReference.cache
+E:\DCDownloads\GeekBrains\C#\domashka1\obj\Debug\net6.0\domashka1.GeneratedMSBuildEditorConfig.editorconfig
+E:\DCDownloads\GeekBrains\C#\domashka1\obj\Debug\net6.0\domashka1.AssemblyInfoInputs.cache
+E:\DCDownloads\GeekBrains\C#\domashka1\obj\Debug\net6.0\domashka1.AssemblyInfo.cs
+E:\DCDownloads\GeekBrains\C#\domashka1\obj\Debug\net6.0\domashka1.csproj.CoreCompileInputs.cache
+E:\DCDownloads\GeekBrains\C#\domashka1\obj\Debug\net6.0\domashka1.dll
+E:\DCDownloads\GeekBrains\C#\domashka1\obj\Debug\net6.0\refint\domashka1.dll
+E:\DCDownloads\GeekBrains\C#\domashka1\obj\Debug\net6.0\domashka1.pdb
+E:\DCDownloads\GeekBrains\C#\domashka1\obj\Debug\net6.0\domashka1.genruntimeconfig.cache
+E:\DCDownloads\GeekBrains\C#\domashka1\obj\Debug\net6.0\ref\domashka1.dll
